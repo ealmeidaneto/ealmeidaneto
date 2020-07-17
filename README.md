@@ -5,7 +5,7 @@
 
 I'm a DevOps engineer 👨‍💻 who is passionate about Cloud Computing, Infra as Code and automation.
 
-- 🔭 I’m currently working as a AWS DevOps Engineer at an AWS Partner
+- 🔭 I’m currently working as a DevOps Engineer at an AWS Partner
 - 🌱 I’m currently learning Kafka and Golang
 - 💬 Ask me about: Tech, memes, anime
 -  ⚡ Technologies: AWS, Docker, Kubernetes, Terraform, CI/CD, Python3
